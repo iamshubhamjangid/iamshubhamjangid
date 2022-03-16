@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iamshubhamjangid
+- 👀 I’m interested in Front End Development with JavaScript and Angular 
+- 🌱 I’m currently learning Node.Js
+- 💞️ I’m looking to collaborate on Angular 
+- 📫 How to reach me : ->  +91-7023055431 & imshubhamjangid@gmail.com
